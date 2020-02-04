@@ -26,7 +26,7 @@ Service, the third pillar of the Bitcoin Ritual, represents the duty and obligat
 
 Nothing better illustrates the high moral values of the Bitcoin Ritual than the act of serving. Onboarding, assisting the helpless, and running code are of the highest esteem. 
 
-## Closing
+## Closing Thoughts
 As one voluntarily receives the Bitcoin Ritual through initiation, he will emerge with an existential change in his understanding of himself and the world around him. 
 
 The ritual that constitute the three ceremonies of Bitcoin are part of a single initiation, as only after completing the three degrees does an initiate becomes a full Master Node. It is also clear that the ritual is more moral than religious as Bitcoin is not a religion, even if it has religious basis, but a fraternity dedicated to teaching social concepts and promoting the three pillars of enlightenment, socvereignty and service. 
