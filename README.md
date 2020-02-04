@@ -6,7 +6,7 @@ This is a working document and an attempt to put a foundation in place for a Bit
 
 The ritual is voluntary. It will be free and open source. It can and will be forked. 
 
-I believe the Bitcoin Ritual will be a framework for personal and group betterment through education, sovereignty, and service.
+I believe the Bitcoin Ritual will be a [framework](https://github.com/joe-rodgers/bitcoinritual/blob/master/ceremonies.md) for personal and group betterment through education, sovereignty, and service.
 
 ## The Three Pillars of Bitcoin
 The Bitcoin Ritual is built upon the three pillars of Enlightenment, Sovereignty, and Service. We will find morals and virtue withhin each pillar.
